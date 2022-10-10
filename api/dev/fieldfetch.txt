@@ -1,0 +1,10 @@
+<?php
+$sql = "SELECT blabla FROM blabla";
+if ($result = mysqli_query($db, $sql)) {
+  // Fetch one and one row
+  while ($row = mysqli_fetch_row($result)) {
+    printf ("%s (%s)\n", $row[0]);
+  }
+  mysqli_free_result($result);
+}
+?>

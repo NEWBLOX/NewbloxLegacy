@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html id=www-roblox-com xml:lang=en xmlns=http://www.w3.org/1999/xhtml>
+  <title>ROBLOX: A FREE Virtual World-Building Game with Avatar Chat, 3D Environments, and Physics
+  </title>
+  <link href=index_files/AllCSS.css id=ctl00_Imports rel=stylesheet>
+  <link href=https://web.archive.org/web/20071023092342id_/http://roblox.com/roblox.ico id=ctl00_Favicon rel="Shortcut Icon"type=image/ico>
+  <meta content="text/html; charset=windows-1252"http-equiv=Content-Type>
+  <meta content="ROBLOX Corporation"name=author>
+  <meta content="ROBLOX is SAFE for kids! ROBLOX is a FREE casual virtual world with fully constructible/desctructible 3D environments and immersive physics. Build, battle, chat, or just hang out."name=description>
+  <meta content="game, video game, building game, construction game, online game, LEGO game, LEGO, MMO, MMORPG, virtual world, avatar chat"name=keywords>
+  <meta content=all name=robots>
+  <form action="https://theoldnet.com/wikipediasearch?decode=false&scripts=false&timestamp=20071023092342&url=http://roblox.com/Default.aspx"id=aspnetForm method=post name=aspnetForm>
+    <input id=ctl00_ScriptManager1_HiddenField name=ctl00_ScriptManager1_HiddenField type=hidden> 
+    <input id=__VIEWSTATE name=__VIEWSTATE type=hidden value=/euhYZRl/gxP/bzXbjM1azLzjMsbiPk2kF8WdKK982jEVN/OtjWbZjZgMoNgdP6MvXXpTmLwUeppx0VK7/+w6b//vD3U9fVBVKi19CcRQE+u4v9cwNfpyw8ZpYC6HOd8J/CzPiaf+zoNtI6L0wEqHdBr/q8GS7lEK2/t6Eoufo4CrsQIDm7zEAkeRDqxipF9+OcU4tdZS+oeoyIyUui57tWuMiCIzCtdsEjEONN4j2dVLehAZJJsTYT8h1T2iavEHqGj/vcvgDxTEAXqLlFe5dz71G/8SuZeAKJVOkhDV9u6WdiLqcKNQyicsumFUoR9DLlfDO1B0OgJev1RqbFq5kBO+mPxfi+XEkST87Ryujy25tetmUpdTAzjuJebdnowcKDEixsj8PXURxKB7Ev+MRTMrSuKD+RwePWLLospmIsz/9+Glh+vh2LJUFZxx/O7f1X2tb+IZBY1sTxf5onLFxsR8RXkFQjHarXWqZtZrvFZ7PoCTKdyBM996gIxSM0tWAdHqtT01hf+XemqXjZyQXHjEpJSB5VqSXzknfje/blHkgkunYSsoHrP/Ruh3z14quwb2ln63iy/7EqDUwSqCJ96vbXw0d10ES0m19UngOuyVelo9Pl19U0kf74PSjGT9u7QK1Z1vGJZkKyTbPoHTvnNwpjJWEAM/qQCWin8vpm7Bs1/oZ8NwuTryWi/JRF72V7MQOd6ChWW1Frjf2WHYlN65t6goLqwvBm+6TpGrexnrlplIk9B0Sm1Dr/+fySxLCU+y5HFJ576BcB/nh0MFvlZ5jthPKc47ryhPDGlmJ0qPvhetsXnNiuLV8yi+rc8TpD4widLHcgVhOzmEoGOU4n5ZR8CGlysb56eJkv0w4iSMWYQg34COuUz92IxHJENN8b7O7ByDjRL50xuM7wtQTBlFODH0ZiegxhmkdXjIP0dp2gwZjG5FAZNGo74iGroG1nrbeoQ1XidkiiXzPlxo97ue2xkCW+fd/pfqOMwv5Z1o2wJBYczP9Y6t15/AiwIx83gh8B4OrKQSeqIdMpL8uET89KFQJg7H1Nb1yUADxFyFB/VR8zewvuvKUJ2O+T+c74RF8KX/B8LUtIJ1MFgjYQP80/6WS+g00lBXpL4tBj91dCL93cg7cgsaBSdYzoKh4INQkuUM0o6vCd1di9wsAar+a7L+59J8xqDGRfBKKG2F5C10p0Q1Lsb+GNOY6ROJmG4YQtDPPo626qLoJeV/m4gdKqt+hKe04iDM1sneTB22upqMU/nL1Nppo1Zro6u1txwlLN3fwRP/IBqeIBzOmxKDGkAxUGh/xEDFH0ySjNBJgulYWeCHErkK7dteq01isqfsf4kqZ8YYLBHFysMbKvSI/hI3pIfB3m55rblvl6DlowMui8WAe68nJ/6SJRKUL7Lh+GvdwDsvRaYfntv6CZlwa+V3R1Ytfe8OLJPs1uKthEnEhlbaDTG6U0ZpTS94QgMi8xkfPZ6nt/iYfSnggwp4kqkYOwna6v9g1C3pUrhrZYEdID1cc6BI/B/CowB>
+    <div id=Container>
+      <div id=AdvertisingLeaderboard>
+      </div>
+      <div id=Header>
+        <div id=Banner>
+          <div id=Options>
+            <div id=Authentication>
+              <span>
+                <a href="https://theoldnet.com/get?decode=false&scripts=false&timestamp=20071023092342&url=http://roblox.com/javascript:__doPostBack(%27ctl00$lsLoginStatus$ctl02%27,%27%27)"id=ctl00_lsLoginStatus>Login
+                </a>
+              </span>
+            </div>
+            <div id=Settings>
+              <span id=ctl00_lSettings>
+              </span>
+            </div>
+          </div>
+          <div id=Logo>
+            <a href=https://web.archive.org/web/20071023092342id_/http://roblox.com/Default.aspx id=ctl00_rbxImage_Logo style=display:inline-block;cursor:pointer title=ROBLOX>
+              <img border=0 src=index_files/Logo_267_70.png alt=ROBLOX id=img blankurl=http://t2.roblox.com:80/blank-267x70.gif>
+            </a>
+          </div>
+          <div id=Alerts>
+            <table style=width:100%;height:100%>
+              <tr>
+                <td valign=middle>
+                  <a href="https://web.archive.org/web/20071023092342id_/http://roblox.com/Login/New.aspx?ReturnUrl=%2fGames.aspx"id=ctl00_rbxAlerts_SignupAndPlayHyperLink class=SignUpAndPlay>
+                    <img border=0 src=index_files/SignupBanner.png alt="Sign-up and Play!">
+                  </a>
+            </table>
+              </div>
+          </div>
+          <div class=Navigation>
+            <span>
+              <a href=https://web.archive.org/web/20071023092342id_/http://roblox.com/User.aspx id=ctl00_hlMyRoblox class=MenuItem>My ROBLOX
+              </a>
+            </span> 
+            <span class=Separator>| 
+            </span>
+            <span>
+              <a href=https://web.archive.org/web/20071023092342id_/http://roblox.com/Games.aspx id=ctl00_hlGames class=MenuItem>Games
+              </a>
+            </span> 
+            <span class=Separator>| 
+            </span>
+            <span>
+              <a href=https://web.archive.org/web/20071023092342id_/http://roblox.com/Catalog.aspx id=ctl00_hlCatalog class=MenuItem>Catalog
+              </a>
+            </span> 
+            <span class=Separator>| 
+            </span>
+            <span>
+              <a href=https://web.archive.org/web/20071023092342id_/http://roblox.com/Upgrades/BuildersClub.aspx id=ctl00_hlBuildersClub class=MenuItem>Builders Club
+              </a>
+            </span> 
+            <span class=Separator>| 
+            </span>
+            <span>
+              <a href=https://web.archive.org/web/20071023092342id_/http://roblox.com/Browse.aspx id=ctl00_hlBrowse class=MenuItem>Browse
+              </a>
+            </span> 
+            <span class=Separator>| 
+            </span>
+            <span>
+              <a href=https://web.archive.org/web/20071023092342id_/http://roblox.com/Forum/Default.aspx id=ctl00_hlForum class=MenuItem>Forum
+              </a>
+            </span> 
+            <span class=Separator>| 
+            </span>
+            <span>
+              <a href="https://theoldnet.com/get?decode=false&scripts=false&timestamp=20071023092342&url=http://blog.roblox.com/"id=ctl00_hlNews class=MenuItem target=_blank>News
+              </a> 
+              <a href="https://theoldnet.com/get?decode=false&scripts=false&timestamp=20071023092342&url=http://blog.roblox.com/?feed=rss"id=ctl00_hlNewsFeed>
+                <img border=0 src=index_files/feed-icon-14x14.png>
+              </a>
+            </span>
+            <span class=Separator>| 
+            </span>
+            <span>
+              <a href=https://web.archive.org/web/20071023092342id_/http://roblox.com/Parents.aspx id=ctl00_hlParents class=MenuItem>Parents
+              </a>
+            </span> 
+            <span class=Separator>| 
+            </span>
+            <span>
+              <a href="https://theoldnet.com/get?decode=false&scripts=false&timestamp=20071023092342&url=http://wiki.roblox.com/"id=ctl00_hlHelp class=MenuItem target=_blank>Help
+              </a>
+            </span>
+          </div>
+        </div>
+        <div id=Body>
+          <div id=SplashContainer>
+            <div id=SignInPane>
+              <div id=LoginViewContainer>
+                <div id=LoginView>
+                  <h5>Member Login
+                  </h5>
+                  <div class=AspNet-Login>
+                    <div class=AspNet-Login>
+                      <div class=AspNet-Login-UserPanel>
+                        <label class=Label for=ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_UserName id=ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_UserNameLabel>Character Name
+                        </label>
+                        <input id=ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_UserName name=ctl00$cphRoblox$rbxLoginView$lvLoginView$lSignIn$UserName tabindex=1 class=Text>
+                      </div>
+                      <div class=AspNet-Login-PasswordPanel>
+                        <label class=Label for=ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_Password id=ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_PasswordLabel>Password
+                        </label>
+                      </div>
+                      <div class=AspNet-Login-SubmitPanel>
+                        <a href="https://theoldnet.com/get?decode=false&scripts=false&timestamp=20071023092342&url=http://roblox.com/javascript:__doPostBack(%27ctl00$cphRoblox$rbxLoginView$lvLoginView$lSignIn$Login%27,%27%27)"id=ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_Login class=Button tabindex=4>Login
+                        </a>
+                      </div>
+                      <div class=AspNet-Login-PasswordRecoveryPanel>
+                        <a href=https://web.archive.org/web/20071023092342id_/http://roblox.com/Login/ResetPasswordRequest.aspx id=ctl00_cphRoblox_rbxLoginView_lvLoginView_lSignIn_hlPasswordRecovery tabindex=5>Forgot your password?
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id=ctl00_cphRoblox_pFigure>
+                <div id=Figure>
+                  <a id=ctl00_cphRoblox_ImageFigure style=display:inline-block title=Figure disabled onclick=return!1>
+                    <img border=0 src=index_files/figure.png alt=Figure id=img blankurl=http://t1.roblox.com:80/blank-115x130.gif>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div id=RobloxAtAGlance>
+              <h2>ROBLOX Virtual Playworld
+              </h2>
+              <h3>ROBLOX is Free!
+              </h3>
+              <ul id=ThingsToDo>
+                <li id=Point1>
+                  <h3>Build your personal Place
+                  </h3>
+                  <div>Create buildings, vehicles, scenery, and traps with thousands of virtual bricks.
+                  </div>
+                <li id=Point2>
+                  <h3>Meet new friends online
+                  </h3>
+                  <div>Visit your friend's place, chat in 3D, and build together.
+                  </div>
+                <li id=Point3>
+                  <h3>Battle in the Brick Arenas
+                  </h3>
+                  <div>Play with the slingshot, rocket, or other brick battle tools. Be careful not to get "bloxxed".
+                  </div>
+              </ul>
+              <div id=Showcase>
+                <embed flashvars=""id=VideoPlayback src=index_files/googleplayer.htm style=width:400px;height:326px type=application/x-shockwave-flash>
+              </div>
+              <div id=Install>
+                <div id=CompatibilityNote>
+                  <div id=ctl00_cphRoblox_pCompatibilityNote>Works with your
+                    <br>Windows PC!
+                  </div>
+                </div>
+                <div id=DownloadAndPlay>
+                  <a href="https://web.archive.org/web/20071023092342id_/http://roblox.com/Login/New.aspx?ReturnUrl=%2fGames.aspx"id=ctl00_cphRoblox_hlDownloadAndPlay>
+                    <img border=0 src=index_files/DownloadAndPlay.png alt="FREE - Download and Play!">
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div id=UserPlacesPane>
+              <div id=UserPlaces_Content>
+                <table border=0 cellspacing=0 id=ctl00_cphRoblox_DataListCoolPlace width=100%>
+                  <tr>
+                    <td class=UserPlace>
+                      <a href="https://web.archive.org/web/20071023092342id_/http://roblox.com/Place.aspx?id=47341"id=ctl00_cphRoblox_DataListCoolPlace_ctl00_rbxContentImage style=display:inline-block;cursor:pointer title="Broken Isle *Original*">
+                        <img border=0 src=index_files/Place-120x70-cc1488a9ec2ba4001dae59bbf1d2d1c2.Png alt="Broken Isle *Original*"id=img>
+                      </a>
+                    <td class=UserPlace>
+                      <a href="https://web.archive.org/web/20071023092342id_/http://roblox.com/Place.aspx?id=47828"id=ctl00_cphRoblox_DataListCoolPlace_ctl01_rbxContentImage style=display:inline-block;cursor:pointer title="âœªUltimate Paintball CTF">
+                        <img border=0 src=index_files/Place-120x70-2c8ee77fa67d614896ece97cc8931777.Png alt="âœªUltimate Paintball CTF"id=img>
+                      </a>
+                    <td class=UserPlace>
+                      <a href="https://web.archive.org/web/20071023092342id_/http://roblox.com/Place.aspx?id=55686"id=ctl00_cphRoblox_DataListCoolPlace_ctl02_rbxContentImage style=display:inline-block;cursor:pointer title="Counter Strike Â© Choose Your OWN Class And Battle!">
+                        <img border=0 src=index_files/Place-120x70-e764218ba55c1177a489f95375873c38.Png alt="Counter Strike Â© Choose Your OWN Class And Battle!"id=img>
+                      </a>
+                    <td class=UserPlace>
+                      <a href="https://web.archive.org/web/20071023092342id_/http://roblox.com/Place.aspx?id=113225"id=ctl00_cphRoblox_DataListCoolPlace_ctl03_rbxContentImage style=display:inline-block;cursor:pointer title="Rhen Var">
+                        <img border=0 src=index_files/Place-120x70-e9f926a38839263446052c4f9de7b26b.Png alt="Rhen Var"id=img>
+                      </a>
+                    <td class=UserPlace>
+                      <a href="https://web.archive.org/web/20071023092342id_/http://roblox.com/Place.aspx?id=118438"id=ctl00_cphRoblox_DataListCoolPlace_ctl04_rbxContentImage style=display:inline-block;cursor:pointer title="The Original Wizard Wars">
+                        <img border=0 src=index_files/Place-120x70-069379830bc695a78b98124ed4c256b4.Png alt="The Original Wizard Wars"id=img>
+                      </a>
+                </table>
+                  </div>
+                <div id=UserPlaces_Header>
+                  <h3>Cool Places
+                  </h3>
+                  <p>Check out some of our favorite ROBLOX places!
+                </div>
+                <div id=ctl00_cphRoblox_ie6_peekaboo style=clear:both>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id=Footer>
+            <hr>
+            <p class=Legalese>ROBLOX, "Online Building Toy", characters, logos, names, and all related indicia are trademarks of 
+              <a href=https://web.archive.org/web/20071023092342id_/http://roblox.com/info/About.aspx id=ctl00_rbxFooter_hlRobloxCorporation>ROBLOX Corporation
+              </a>, Â©2007. Patents pending.
+              <br>ROBLOX Corp. is not affliated with Lego, MegaBloks, Bionicle, Pokemon, Nintendo, Lincoln Logs, Yu Gi Oh, K'nex, Tinkertoys, Erector Set, or the Pirates of the Caribbean. ARrrr!
+              <br>Use of this site signifies your acceptance of the 
+              <a href=https://web.archive.org/web/20071023092342id_/http://roblox.com/info/TermsOfService.aspx id=ctl00_rbxFooter_hlTermsOfService>Terms and Conditions
+              </a>.
+              <br>
+              <a href=https://web.archive.org/web/20071023092342id_/http://roblox.com/info/Privacy.aspx id=ctl00_rbxFooter_hlPrivacyPolicy>Privacy Policy
+              </a> | 
+              <a href=mailto:info@roblox.com>Contact Us
+              </a> | 
+              <a href=https://web.archive.org/web/20071023092342id_/http://roblox.com/info/About.aspx id=ctl00_rbxFooter_hlAboutRoblox>About Us
+              </a> | 
+              <a href=https://web.archive.org/web/20071023092342id_/http://roblox.com/info/Jobs.aspx id=ctl00_rbxFooter_HyperLink1>Jobs
+              </a>
+          </div>
+        </div>
+        <input id=__VIEWSTATEENCRYPTED name=__VIEWSTATEENCRYPTED type=hidden> 
+        <input id=__EVENTVALIDATION name=__EVENTVALIDATION type=hidden value=2cjR3cuNrT66hJFpYrK8ZIv3KBtlizdWW5Z4EK0LuIvvDOhZJLGVZ2NFM5A+/+ln>
+        </form>

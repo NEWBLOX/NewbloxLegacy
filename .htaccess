@@ -1,0 +1,5 @@
+RewriteEngine On
+Redirect 301 "/asset/" "/api/game/asset/asset.php"
+Options +FollowSymLinks
+ErrorDocument 404 /404.php
+ErrorDocument 403 /403.php
